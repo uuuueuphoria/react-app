@@ -1,0 +1,17 @@
+.button-base {
+  border: none;
+  background: none;
+  box-shadow: 0 0 2px 0 grey;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 4px;
+}
+.call-to-action {
+  border: none;
+  background: tomato;
+  color: white;
+  box-shadow: 0 0 2px 0 tomato;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  border-radius: 4px;
+}
